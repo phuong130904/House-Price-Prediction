@@ -5,7 +5,3 @@ Dự án này bao gồm đầy đủ quy trình từ huấn luyện mô hình đ
   * `sklearn_model.ipynb`: Mô hình dùng Scikit-learn.
   * `pyspark_model.ipynb`: Mô hình dùng PySpark.
 * **web/**: Chứa mã nguồn trang web chạy Local.
-
-## Cách chạy Web Local
-1. Truy cập thư mục `web/HouseProject`.
-2. Chạy file python chính để mở giao diện web.
