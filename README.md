@@ -1,4 +1,4 @@
-# DỰ ÁN DỰ BÁO GIÁ NHÀ
+# DỰ BÁO GIÁ NHÀ
 Dự án này bao gồm đầy đủ quy trình từ huấn luyện mô hình đến triển khai ứng dụng web.
 ## Cấu trúc thư mục
 * **notebooks/**: Chứa file huấn luyện mô hình.
